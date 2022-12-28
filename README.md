@@ -1,4 +1,4 @@
-![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-a7c05e598d.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Pratheek B C Kulal</h1>
 
 <h3 align="center">A passionate Software developer</h3>
