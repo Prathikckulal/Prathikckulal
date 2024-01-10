@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathikckulal" alt="prathikckulal" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🌱 I’m currently learning **ReactJS,Python**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Andorid Studios, C ,C++**
+- 💬 Ask me about **PHP, JavaScript**
 
 - 📫 How to reach me **prathikckulal123@gmail.com**
 
