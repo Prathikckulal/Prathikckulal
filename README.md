@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **PHP, JavaScript**
+- 💬 Ask me about **PYTHON, JavaScript,SQL,Airflow,Tenserflow,Kafka,Odoo**
 
 - 📫 How to reach me **prathikckulal123@gmail.com**
 
