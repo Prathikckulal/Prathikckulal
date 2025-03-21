@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pratheek-c-kulal-b99a35288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratheek b c kulal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prathikckulal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathikckulal123" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/Pratheek" target="blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="pratheek b c kulal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
