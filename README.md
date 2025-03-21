@@ -76,13 +76,10 @@
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apacheairflow/apacheairflow-icon.svg" alt="apache-airflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://airflow.apache.org/_images/airflow-logo.png" alt="apache-airflow" width="40" height="40"/>
   </a>
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Odoo_logo.png" alt="odoo" width="40" height="40"/>
   </a>
 </p>
 
