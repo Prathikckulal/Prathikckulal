@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratheek B C Kulal</h1>
 
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Software developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathikckulal&label=Profile%20views&color=0e75b6&style=flat" alt="prathikckulal" /> </p>
@@ -73,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" 
