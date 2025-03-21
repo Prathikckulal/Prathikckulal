@@ -84,6 +84,10 @@
   <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" 
        alt="odoo" width="40" height="40"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" 
+       alt="odoo" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathikckulal&show_icons=true&locale=en&layout=compact" alt="prathikckulal" /></p>
