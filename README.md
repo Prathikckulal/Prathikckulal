@@ -76,7 +76,7 @@
     <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" 
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" 
        alt="apache-airflow" width="40" height="40"/>
 </a>
 
